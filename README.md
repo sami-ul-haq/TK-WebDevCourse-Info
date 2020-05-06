@@ -9,6 +9,8 @@ All About Classes
 
 ## 4th Live Class ( [Project](https://sami-ul-haq.github.io/week3-4-class-project/) --> Added CSS & Styles )
 
+## 5th Live Class ( Group Activities [kahoot + Tasks ] )
+
 
 
 
