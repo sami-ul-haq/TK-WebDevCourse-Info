@@ -13,6 +13,8 @@ All About Classes
 
 ## 6th Live Class ( Group Activity --> Random WebPage Designing [Input](https://www.aztecchocolateshop.com/corporate-gifting) [Output](https://sami-ul-haq.github.io/TK-6thClass-Task/)  )
 
+## 7th Live Class ( Group Activity --> GitHub Web Section Designing [Original](https://github.com/) [Mockup](https://sami-ul-haq.github.io/github-section-designing-tk/)  )
+
 
 
 
