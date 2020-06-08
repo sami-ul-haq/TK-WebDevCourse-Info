@@ -15,6 +15,8 @@ All About Classes
 
 ## 7th Live Class ( Group Activity --> GitHub Web Section Designing [Original](https://github.com/) [Mockup](https://sami-ul-haq.github.io/github-section-designing-tk/)  )
 
+## 6th June 2020 ( 2nd Test/Quiz  + **First Mentor Meetup** )
+
 
 
 
